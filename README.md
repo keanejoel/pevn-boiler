@@ -1,2 +1,2 @@
 # pevn-boiler
-A boiler template for the PEVN stack (PostgreSQL, Express, Vuejs and Nodejs)
+A boiler template for getting started with PEVN (Postgres, Express, Vue, Node)
